@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihály Szatmári</h1>
-<h3 align="center">A passionate frontend developer from Hungary</h3>
+<h3 align="center">A passionate developer from Hungary</h3>
 
 - 💬 Ask me about Full Stack **React, Tailwind, Javascript**
 
