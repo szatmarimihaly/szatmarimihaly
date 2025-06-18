@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mihály Szatmári</h1>
 <h3 align="center">A passionate developer from Hungary</h3>
 
-- 💬 Ask me about Full Stack **React, Tailwind, Javascript**
+- 💬 Ask me about Full Stack **NEXT.JS, Tailwind, Javascript**
 
 - 📫 How to reach me **szatmarr.mihalyy@gmail.com**
 
